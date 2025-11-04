@@ -1,6 +1,6 @@
 <!-- Animated header -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://github.com/DiggaDouglas/DiggaDouglas/blob/main/Emmanuel.jpg" width="30px">
   Hi there, I'm <span style="color:#00FFFF;">Douglas</span> 👨‍💻
 </h1>
 
@@ -44,25 +44,25 @@ I’ve also delved into **Artificial Intelligence**, **Machine Learning**, **Rob
 
 ### 🌍 [Retouch Africa International Website](#)  
 Helping a regional development consultancy showcase its work and impact through a professional web presence.  
-![Retouch Africa Project](https://via.placeholder.com/800x400?text=Retouch+Africa+Website)
+![Retouch Africa Project](https://github.com/DiggaDouglas/DiggaDouglas/blob/main/RAI.png)
 
 ---
 
 ### 🐟 [Pacho Fish Farm](#)  
 A digital platform enhancing aquaculture operations, community empowerment, and sustainability outreach.  
-![Pacho Fish Farm](https://via.placeholder.com/800x400?text=Pacho+Fish+Farm)
+![Pacho Fish Farm](https://github.com/DiggaDouglas/DiggaDouglas/blob/main/pacho.png)
 
 ---
 
 ### 💡 [Motivus Project](#)  
 A platform promoting motivation, growth, and goal tracking among young innovators and professionals.  
-![Motivus Project](https://via.placeholder.com/800x400?text=Motivus+Project)
+![Motivus Project](https://github.com/DiggaDouglas/DiggaDouglas/blob/main/motivus.png)
 
 ---
 
 ### 🌾 [Crop Yield Prediction (ML)](#)  
 A Machine Learning model that predicts crop yield based on weather and soil conditions to support smart farming.  
-![Crop Yield Prediction](https://via.placeholder.com/800x400?text=Crop+Yield+Prediction)
+![Crop Yield Prediction](https://github.com/DiggaDouglas/DiggaDouglas/blob/main/crop.png)
 
 ---
 
