@@ -1,8 +1,9 @@
 <!-- Animated header -->
-<h1 align="center">
-  <img src="https://github.com/DiggaDouglas/DiggaDouglas/blob/main/Emmanuel.jpg" width="30px">
-  Hi there, I'm <span style="color:#00FFFF;">Douglas</span> 👨‍💻
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=WELCOME+TO+MY+PROFILE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Your+Subtitle+or+Professional+Tagline+Here&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+</p>
+
+ # Hi there, I'm <span style="color:#00FFFF;"> Emmanuel Douglas</span> 👨‍💻
 
 <p align="center">
   <em>"Engineering the future, debugging the present."</em>
@@ -78,7 +79,9 @@ A Machine Learning model that predicts crop yield based on weather and soil cond
   <img src="https://github-readme-stats.vercel.app/api?username=DiggaDouglas&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiggaDouglas&theme=tokyonight" height="165">
 </p>
-
+ <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 ---
 
 ## ✨ Connect With Me  
